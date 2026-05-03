@@ -62,7 +62,6 @@ background-image: url(topback.jpg);
 height: 50px;
 background-size: cover;
 background-position: center;
-animation: slideIn 3s ease;
 text-align: center;
 }
 #sneaker{
